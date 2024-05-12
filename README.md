@@ -1,5 +1,5 @@
 # Simple-http-server
-A simple http server
+## A simple http server
 
 用来提高coding能力的小项目
 
@@ -13,3 +13,6 @@ GET包固定传输一个文件，对query string进行了读取，但是未实�
 
 没有实现读取命令行参数的功能。
 
+## Reference：
+
+[fumiama/simple-http-server](https://github.com/fumiama/simple-http-server)
